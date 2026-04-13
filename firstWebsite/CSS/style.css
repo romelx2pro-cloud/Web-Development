@@ -1,0 +1,72 @@
+.blog {
+  border: 1px solid purple;
+  border-radius: 20px;
+  margin: 1px;
+  width: 30%;
+  display: inline-block;
+}
+h3 {
+  text-align: center;
+}
+p {
+  text-align: justify;
+}
+/*
+ .blog {
+   border: 40px solid red;
+   width: 500px;
+   height: 200px;
+   margin: 40px;
+   padding: 20px;
+ }
+ /*
+ .blog {
+   border: 10px solid purple;
+   border-radius: 30px;
+   margin: 40px;
+   padding: 40px 200px;
+ }
+ /*
+ h1 {
+   color: rgba(204, 216, 100, 0.747);
+   background-color: sandybrown;
+   height: 90px;
+   width: 75%;
+ }
+ p {
+   color: salmon;
+   font-size: 20px;
+   font-weight: 400;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ img {
+   width: 50%;
+ }
+ #birthday {
+   font-size: 30px;
+   color: slateblue;
+ }
+ #murgi {
+   color: tomato;
+ }
+ .friend {
+   background-color: green;
+ }
+ h1.friend {
+   font-size: 60px;
+ }
+ .neighbor {
+   width: 200px;
+ }
+ .romantic {
+   color: red;
+ }
+ .blog {
+   background-color: lightblue;
+   border: 5px solid peru;
+   border-radius: 30px;
+   margin: 20px 60px 80px 100px;
+   padding-left: 10px;
+   width: 500px;
+   text-align: center;
+ }*/
